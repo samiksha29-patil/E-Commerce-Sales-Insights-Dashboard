@@ -37,6 +37,23 @@ This project delivers a **clear and practical analysis of e-commerce sales data*
 
 ---
 
+## 📊 E-Commerce Sales Insights Dashboard
+
+![Graph 1](https://github.com/samiksha29-patil/E-Commerce-Sales-Insights-Dashboard/raw/main/graph1.png)
+
+![Graph 2](https://github.com/samiksha29-patil/E-Commerce-Sales-Insights-Dashboard/raw/main/graph.png)
+
+![Graph 3](https://github.com/samiksha29-patil/E-Commerce-Sales-Insights-Dashboard/raw/main/graph2.png)
+
+![Graph 4](https://github.com/samiksha29-patil/E-Commerce-Sales-Insights-Dashboard/raw/main/graph3.png)
+
+![Graph 5](https://github.com/samiksha29-patil/E-Commerce-Sales-Insights-Dashboard/raw/main/graph4.png)
+
+![Graph 6](https://github.com/samiksha29-patil/E-Commerce-Sales-Insights-Dashboard/raw/main/graph5.png)
+
+--- 
+
+
 ## 🛠️ Tools & Libraries
 
 - The project is implemented using Python with the following libraries:
